@@ -1,4 +1,4 @@
-baseurl = "harvard4h.org"
+baseurl = "https://harvard4h.org"
 languageCode = "en-us"
 title = "Harvard 4-H"
 theme = "gohugo-theme-ananke"
